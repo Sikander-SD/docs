@@ -1,9 +1,9 @@
 ACCEPTABLE USE POLICY
 
-Last updated {effective_date}
+Last updated {{effective_date}}
 
 
-This Acceptable Use Policy ("Policy") is part of our Terms and Conditions ("Legal Terms") and should therefore be read alongside our main Legal Terms: {url_terms}. If you do not agree with these Legal Terms, please refrain from using our Services. Your continued use of our Services implies acceptance of these Legal Terms.
+This Acceptable Use Policy ("Policy") is part of our Terms and Conditions ("Legal Terms") and should therefore be read alongside our main Legal Terms: {{url_terms}}. If you do not agree with these Legal Terms, please refrain from using our Services. Your continued use of our Services implies acceptance of these Legal Terms.
 
 Please carefully review this Policy which applies to any and all:
 
@@ -14,8 +14,8 @@ Please carefully review this Policy which applies to any and all:
 
 WHO WE ARE
 
-We are {company_name}, doing business as {company_short_name} ("The Company," "we," "us," or "our") a company registered in India at {company_address}.
-We operate the website {app_url} (the "Site"), the mobile application {app_name} (the "App"), as well as any other related products and services that refer or link to this Policy (collectively, the "Services").
+We are {{company_name}}, doing business as {{company_short_name}} ("The Company," "we," "us," or "our") a company registered in India at {{company_address}}.
+We operate the website {{app_url}} (the "Site"), the mobile application {{app_name}} (the "App"), as well as any other related products and services that refer or link to this Policy (collectively, the "Services").
 
 
 USE OF THE SERVICES
@@ -102,7 +102,7 @@ We may but are under no obligation to review or moderate the Contributions made 
 
 If you consider that any Content or Contribution:
   breach this Policy, please visit by going to Profile > Customer Care > Report, or refer to the contact details at the bottom of this document to let us know which Content or Contribution is in breach of this Policy and why; or
-  infringe any third-party intellectual property rights, please check out our Legal Terms for information about our copyright infringement reporting process here: {url_terms}.
+  infringe any third-party intellectual property rights, please check out our Legal Terms for information about our copyright infringement reporting process here: {{url_terms}}.
 
 We will reasonably determine whether a Content or Contribution breaches this Policy.
 
@@ -128,9 +128,9 @@ The Company is under no obligation to monitor users’ activities, and we discla
 HOW CAN YOU CONTACT US ABOUT THIS POLICY?
 
 If you have any further questions or comments or wish to report any problematic Content or Contribution, you may contact us by:
-  {company_name}
-  {company_address}
-  {company_support_phone}
-  {company_support_mail}
+  {{company_name}}
+  {{company_address}}
+  {{company_support_phone}}
+  {{company_support_mail}}
   OR   
   By going to Profile > Customer Care > Contact
