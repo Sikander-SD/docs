@@ -1,10 +1,10 @@
 END USER LICENSE AGREEMENT
 
-Last updated {effective_date}
+Last updated {{effective_date}}
 
 
 
-{app_name} is licensed to You (End-User) by {company_name} ("The Company","us","we","our"), located and registered at {company_address} ("Licensor"), for use only under the terms of this License Agreement.
+{{app_name}} is licensed to You (End-User) by {{company_name}} ("The Company","us","we","our"), located and registered at {{company_address}} ("Licensor"), for use only under the terms of this License Agreement.
 
 By downloading the Licensed Application from Apple's software distribution platform ("App Store") and Google's software distribution platform ("Play Store"), and any update thereto (as permitted by this License Agreement), You indicate that You agree to be bound by all of the terms and conditions of this License Agreement, and that You accept this License Agreement. App Store and Play Store are referred to in this License Agreement as "Services."
 
@@ -12,7 +12,7 @@ The parties of this License Agreement acknowledge that the Services are not a Pa
 
 This License Agreement may not provide for usage rules for the Licensed Application that are in conflict with the latest Apple Media Services Terms and Conditions and Google Play Terms of Service ("Usage Rules"). The Company acknowledges that it had the opportunity to review the Usage Rules and this License Agreement is not conflicting with them.
 
-{app_name} when purchased or downloaded through the Services, is licensed to You for use only under the terms of this License Agreement. The Licensor reserves all rights not expressly granted to You. {app_name} is to be used on devices that operate with Apple's operating systems ("iOS" and "Mac OS") or Google's operating system ("Android").
+{{app_name}} when purchased or downloaded through the Services, is licensed to You for use only under the terms of this License Agreement. The Licensor reserves all rights not expressly granted to You. {{app_name}} is to be used on devices that operate with Apple's operating systems ("iOS" and "Mac OS") or Google's operating system ("Android").
 
 
 TABLE OF CONTENTS
@@ -38,7 +38,7 @@ TABLE OF CONTENTS
 
 1. THE APPLICATION
 
-{app_name} ("Licensed Application") is a piece of software created to provide an assistance to the user for selecting the best fit smartphone device, among a wide range of smartphones available in the market and customized for iOS and Android mobile devices ("Devices").
+{{app_name}} ("Licensed Application") is a piece of software created to provide an assistance to the user for selecting the best fit smartphone device, among a wide range of smartphones available in the market and customized for iOS and Android mobile devices ("Devices").
 
 
 2. SCOPE OF LICENSE
@@ -55,7 +55,7 @@ TABLE OF CONTENTS
 
 3. TECHNICAL REQUIREMENTS
 
-  3.1  The Licensed Application requires a firmware version {firmware_version} or higher. Licensor recommends using the latest version of the firmware.  
+  3.1  The Licensed Application requires a firmware version {{firmware_version}} or higher. Licensor recommends using the latest version of the firmware.  
   3.2  Licensor attempts to keep the Licensed Application updated so that it complies with modified/new versions of the firmware and new hardware. You are not granted rights to claim such an update.  
   3.3  You acknowledge that it is Your responsibility to confirm and determine that the app end-user device on which You intend to use the Licensed Application satisfies the technical specifications mentioned above.  
   3.4  Licensor reserves the right to modify the technical specifications as it sees appropriate at any time.
@@ -69,7 +69,7 @@ TABLE OF CONTENTS
 
 5. USE OF DATA
 
-You acknowledge that Licensor will be able to access and adjust Your downloaded Licensed Application content and Your personal information, and that Licensor's use of such material and information is subject to Your legal agreements with Licensor and Licensor's privacy policy: {url_privacy}.
+You acknowledge that Licensor will be able to access and adjust Your downloaded Licensed Application content and Your personal information, and that Licensor's use of such material and information is subject to Your legal agreements with Licensor and Licensor's privacy policy: {{url_privacy}}.
 You acknowledge that the Licensor may periodically collect and use technical data and related information about your device, system, and application software, and peripherals, offer product support, facilitate the software updates, and for purposes of providing other services to you (if any) related to the Licensed Application. Licensor may also use this information to improve its products or to provide services or technologies to you, as long as it is in a form that does not personally identify you.
 
 
@@ -136,10 +136,10 @@ You represent and warrant that You are not located in a country that is subject 
 12. CONTACT INFORMATION
 
 For general inquiries, complaints, questions or claims concerning the Licensed Application, please contact:  
-  {company_name}
-  {company_address}
-  {company_support_phone}
-  {company_support_mail}
+  {{company_name}}
+  {{company_address}}
+  {{company_support_phone}}
+  {{company_support_mail}}
   OR
   By going to Profile > Customer Care > Contact
 
