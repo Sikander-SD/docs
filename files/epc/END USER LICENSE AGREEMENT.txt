@@ -4,7 +4,7 @@ Last updated {effective_date}
 
 
 
-{app_full_name} is licensed to You (End-User) by {company_name} ("The Company","us","we","our"), located and registered at {company_address} ("Licensor"), for use only under the terms of this License Agreement.
+{app_name} is licensed to You (End-User) by {company_name} ("The Company","us","we","our"), located and registered at {company_address} ("Licensor"), for use only under the terms of this License Agreement.
 
 By downloading the Licensed Application from Apple's software distribution platform ("App Store") and Google's software distribution platform ("Play Store"), and any update thereto (as permitted by this License Agreement), You indicate that You agree to be bound by all of the terms and conditions of this License Agreement, and that You accept this License Agreement. App Store and Play Store are referred to in this License Agreement as "Services."
 
@@ -12,7 +12,7 @@ The parties of this License Agreement acknowledge that the Services are not a Pa
 
 This License Agreement may not provide for usage rules for the Licensed Application that are in conflict with the latest Apple Media Services Terms and Conditions and Google Play Terms of Service ("Usage Rules"). The Company acknowledges that it had the opportunity to review the Usage Rules and this License Agreement is not conflicting with them.
 
-{app_full_name} when purchased or downloaded through the Services, is licensed to You for use only under the terms of this License Agreement. The Licensor reserves all rights not expressly granted to You. {app_full_name} is to be used on devices that operate with Apple's operating systems ("iOS" and "Mac OS") or Google's operating system ("Android").
+{app_name} when purchased or downloaded through the Services, is licensed to You for use only under the terms of this License Agreement. The Licensor reserves all rights not expressly granted to You. {app_name} is to be used on devices that operate with Apple's operating systems ("iOS" and "Mac OS") or Google's operating system ("Android").
 
 
 TABLE OF CONTENTS
@@ -38,7 +38,7 @@ TABLE OF CONTENTS
 
 1. THE APPLICATION
 
-{app_full_name} ("Licensed Application") is a piece of software created to provide an assistance to the user for selecting the best fit smartphone device, among a wide range of smartphones available in the market and customized for iOS and Android mobile devices ("Devices").
+{app_name} ("Licensed Application") is a piece of software created to provide an assistance to the user for selecting the best fit smartphone device, among a wide range of smartphones available in the market and customized for iOS and Android mobile devices ("Devices").
 
 
 2. SCOPE OF LICENSE
